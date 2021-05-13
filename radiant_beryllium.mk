@@ -24,7 +24,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="raven-user 12 SQ1D.220105.007 8030436 release-keys" \
     PRODUCT_NAME="beryllium"
 
-PRODUCT_GMS_CLIENTID_BASE := android-xiaomi-rev1
+PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 #Radiant Specific Stuff
 RADIANT_BUILD_TYPE := OFFICIAL
